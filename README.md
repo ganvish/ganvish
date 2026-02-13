@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n/a" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivang-srivastava-83a4181a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivang Srivastava" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/shivang-srivastava_369" target="blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="Shivang Srivastava" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
