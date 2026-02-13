@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivang Srivastava</h1>
 <h3 align="center">C-DAC Certified - H.P.C Engineer & Full Stack AI Developer </h3>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFydWVieGxzanV0NGt2aHZza3Q1bnBycTJsbnBzcnd5ZzM0bmh5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="355px" alt="coding" align="right"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFydWVieGxzanV0NGt2aHZza3Q1bnBycTJsbnBzcnd5ZzM0bmh5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="350px" alt="coding" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganvish&label=Profile%20views&color=0e75b6&style=flat" alt="ganvish" /> </p>
 
